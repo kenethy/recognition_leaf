@@ -1,6 +1,6 @@
-# Recognition of Plants Medicinals
+## Recognition of Plants Medicinals
 
-Project to recognition of plants medicinals using artificial intelligence
+### Project to recognition of plants medicinals using artificial intelligence
 
 Atualmente obter resultados satisfatórios para reconhecimento de imagens tem se tornado algo desafiador, cada vez mais estamos adotando ideias que possam exercer esse papel de modo a ter uma eficiência capaz de ajudar a todos e trazer benefícios a sociedade.
 
